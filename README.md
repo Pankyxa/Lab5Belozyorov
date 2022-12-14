@@ -11,7 +11,7 @@
 
 #### Скриншоты выполнения программы для тестов:
 
--Ферзь ![image](https://user-images.githubusercontent.com/114245476/207729232-c3e4580e-27b0-4fc4-a00e-8a664c66560e.png)
--Ладья ![image](https://user-images.githubusercontent.com/114245476/207729400-b36961b5-dfd4-49ec-9a94-fe6881eb2874.png)
--Конь ![image](https://user-images.githubusercontent.com/114245476/207729491-743e8d4a-3644-4546-8bc6-6c97786ce133.png)
+- Ферзь ![image](https://user-images.githubusercontent.com/114245476/207729232-c3e4580e-27b0-4fc4-a00e-8a664c66560e.png)
+- адья ![image](https://user-images.githubusercontent.com/114245476/207729400-b36961b5-dfd4-49ec-9a94-fe6881eb2874.png)
+- Конь ![image](https://user-images.githubusercontent.com/114245476/207729491-743e8d4a-3644-4546-8bc6-6c97786ce133.png)
 
